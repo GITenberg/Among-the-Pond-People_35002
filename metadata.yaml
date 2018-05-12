@@ -1,0 +1,48 @@
+_repo: Among-the-Pond-People_35002
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gordon, F. C.
+    alias: Gordon, Frederick C. (Frederick Charles)
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '37343'
+    url: http://www.gutenberg.org/2009/agents/37343
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pierson, Clara Dillingham
+    gutenberg_agent_id: '8634'
+    url: http://www.gutenberg.org/2009/agents/8634
+description: Cover; Title Page; Copyright Page; Table of Contents; The Biggest Frog
+  Awakens; The Dance of the Sand-hill Cranes; The Young Minnow Who Would Not Eat When
+  He Should; The Stickleback Father; The Careless Caddis Worm; The Tadpole Who Wanted
+  to Be Grown-up; The Runaway Water Spiders; The Slow Little Mud Turtle; The Dragon-fly
+  Children and the Snapping Turtle; The Snappy Snapping Turtle; The Clever Water-adder;
+  The Good Little Cranes Who Were Bad; The Oldest Dragon-fly Nymph; The Eels' Moving-night;
+  The Crayfish Mother; Two Little Crayfishes Quarrel; The Lucky Mink; The Playful
+  Muskrats.
+gutenberg_issued: '2011-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35002'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+tableOfContents: The biggest frog awakens -- The dance of the sand-hill cranes --
+  The young minnow who would not eat when he should -- The stickleback father -- The
+  careless caddis worm -- The tadpole who wanted to be grown-up -- The runaway water
+  spiders -- The slow little mud turtle -- The dragon-fly children and the snapping
+  turtle -- The snappy snapping turtle -- The clever water-adder -- The good little
+  cranes who were bad -- The oldest dragon-fly nymph -- The eels' moving-night --
+  The crayfish mother -- Two little crayfishes quarrel -- The lucky mink -- The playful
+  muskrats.
+title: Among the Pond People
+url: http://www.gutenberg.org/ebooks/35002
